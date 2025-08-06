@@ -8,7 +8,7 @@ This project demonstrates how to secure an Apache web server using ModSecurity (
 - Observe and confirm detection through logs.
 - Understand how WAFs and log-based defenses operate.
 
-## 🖥Environment
+## Environment
 
 - Ubuntu (Web Server)
 - Kali Linux (Attacker)
