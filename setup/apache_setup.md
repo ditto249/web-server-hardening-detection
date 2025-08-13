@@ -11,7 +11,7 @@ sudo systemctl status apache2 <br>
 
 ## 3. Test Apache in Browser <br>
 Visit: <br>
-http://<UBUNTU-IP> <br>
+http:// UBUNTU-IP <br>
 You should see the default Apache landing page. <br>
 
 ## 4. Create a Hidden Directory <br>
