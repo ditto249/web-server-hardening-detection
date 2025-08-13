@@ -27,7 +27,7 @@ Edit Apache config: <br>
 ```bash
 sudo nano /etc/apache2/mods-enabled/security2.conf
 ```
-Add these inside <IfModule security2_module>:
+Add these inside IfModule security2_module:
 ```bash
 IncludeOptional /usr/share/coreruleset/crs-setup.conf
 IncludeOptional /usr/share/coreruleset/rules/*.conf
