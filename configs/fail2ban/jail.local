@@ -1,1 +1,6 @@
-
+[apache-auth]
+enabled = true
+port    = http,https
+filter  = apache-auth
+logpath = /var/log/apache2/error.log
+maxretry = 3
