@@ -18,5 +18,5 @@ If hidden directories exist, they appear in the output. <br>
 If hidden directories exist, they appear in the output. <br>
 
 ## 5. Screenshots
-Modsecurity off <br> <img width="626" height="376" alt="Screenshot 2025-08-06 165922" src="https://github.com/user-attachments/assets/5e695464-e814-4634-b149-8dc7bb1bb9b5" /> <br>
-Modsecurity on <img width="544" height="364" alt="Screenshot 2025-08-06 174522" src="https://github.com/user-attachments/assets/290abb09-4583-4220-985b-d1f447b5c4b9" />
+Modsecurity off <br> <img width="626" height="376" alt="Screenshot 2025-08-06 165922" src="https://github.com/user-attachments/assets/5e695464-e814-4634-b149-8dc7bb1bb9b5" /> 
+Modsecurity on <br> <img width="544" height="364" alt="Screenshot 2025-08-06 174522" src="https://github.com/user-attachments/assets/290abb09-4583-4220-985b-d1f447b5c4b9" />
