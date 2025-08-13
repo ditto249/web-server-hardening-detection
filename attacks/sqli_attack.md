@@ -6,8 +6,10 @@ sudo nano /var/www/html/search.php
 ```
 ```php
 <?php
-$query = $_POST['query'];
-echo "Search results for: " . $query;
+if (isset($_POST['query'])){
+    $q = $_POST['query'];
+    echo "You searched for: " . $q;
+}
 ?>
 ```
 ## 2. Attack Command
